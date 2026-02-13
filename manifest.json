@@ -1,0 +1,26 @@
+{
+  "name": "おうちストック",
+  "short_name": "おうちストック",
+  "description": "夫婦で使える日用品・食料品管理アプリ",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f5f5f0",
+  "theme_color": "#5B8C5A",
+  "categories": ["lifestyle", "utilities"],
+  "lang": "ja",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Crect width='512' height='512' rx='80' fill='%235B8C5A'/%3E%3Ctext x='256' y='340' font-size='280' text-anchor='middle' fill='white'%3E%F0%9F%8F%A0%3C/text%3E%3C/svg%3E",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192'%3E%3Crect width='192' height='192' rx='30' fill='%235B8C5A'/%3E%3Ctext x='96' y='130' font-size='110' text-anchor='middle' fill='white'%3E%F0%9F%8F%A0%3C/text%3E%3C/svg%3E",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
